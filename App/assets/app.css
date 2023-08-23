@@ -1,1 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Open+Sans:wght@300&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+.mainSection{
+    font-family: "Montserrat";
+    background-color: rgb(217, 153, 237);
+}
+
+.Dashboard-title{
+    background-color: #63e9ad;
+    display: block;
+    text-align: center;
+    font-size: 3.5rem;
+}
