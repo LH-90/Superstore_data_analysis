@@ -1,4 +1,4 @@
-# Superstore Data Analysis
+# Superstore Data Analysis and Web Application
 
 This repository contains a dataset named "Superstore_dataset.csv" that provides information about products sold from 2014 to 2017 in a superstore located in the US. 
 Additionally, we have used a "geo_location.csv" dataset to obtain the latitude and longitude of each city.
