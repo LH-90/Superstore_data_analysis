@@ -20,10 +20,21 @@ We have used Matplotlib, Seaborn and Plotly.
 
 ## Application
 
-To see the Web page, upload the files in VS Code.
+I have created an application with two of the visualisations from the analysis above:
+- Quantity of products sold by US state
+- Quantity of products sold in California cities
 
 ## Instructions
 To run the analysis code, open the file "Superstore_project" on google colab and follow the steps.
+
+Follow these steps to see the web application page (MacBook users):
+- download the repository and upload it in VS Code
+- right click on the "App" folder and choose "Open in integrated terminal"
+- to create the virtual environment, type: python3 -m venv myenv
+- to activate the environment, type: source myenv/bin/activate
+- to install the libraries from the requirements file, type: pip install -r requirements.txt
+- run the code in the file "app-python.py"
+- on your browser, copy the link where Dash is running (the link is given in the terminal when you run the python code)
 
 ## Contributions
 This project was realised during a course at TechTalent Academy.
