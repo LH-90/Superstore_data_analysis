@@ -18,6 +18,10 @@ Please note that we have decided not to remove any outliers at this stage, furth
 In this step, we answer some specific questions related to the dataset using appropriate graphs and visualisations to provide meaningful insights.
 We have used Matplotlib, Seaborn and Plotly.
 
+## Application
+
+To see the Web page, upload the files in VS Code.
+
 ## Instructions
 To run the analysis code, open the file "Superstore_project" on google colab and follow the steps.
 
