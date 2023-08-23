@@ -20,7 +20,7 @@ We have used Matplotlib, Seaborn and Plotly.
 
 ## Application
 
-I have created an application with two of the visualisations from the analysis above:
+We have created an application with two of the visualisations from the analysis above:
 - Quantity of products sold by US state
 - Quantity of products sold in California cities
 
