@@ -36,6 +36,5 @@ Follow these steps to see the web application page (MacBook users):
 - run the code in the file "app-python.py"
 - on your browser, copy the link where Dash is running (the link is given in the terminal when you run the python code)
 
-## Contributions
+
 This project was realised during a course at TechTalent Academy.
-We welcome contributions to this repository. If you find any issues or improvements, please create a pull request, and we will be happy to review it.
